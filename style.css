@@ -1,0 +1,13 @@
+.container {
+  width: 80%;
+  margin: 15px auto;
+}
+
+h2 {
+  text-align: center;
+}
+
+img{
+  display: block;
+  margin: auto;
+}
